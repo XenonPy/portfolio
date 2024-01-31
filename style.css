@@ -1,0 +1,13 @@
+html, body {
+    width:100%;
+    margin:0;
+    padding:0;
+    background-color:rgb(20, 20, 20);
+    color:white;
+}
+
+h1 {
+    color:rgb(75, 255, 225);
+    font-size:10vw;
+    margin: 2vw;
+}
